@@ -1,0 +1,33 @@
+/****
+Reset
+****/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: azure;
+}
+header {
+    padding: 20px;
+    text-align:center;
+    border-bottom: 1px solid red;
+}
+
+header nav {
+    padding: 20px 0;
+}
+
+header nav ul {
+    margin: 0;
+    list-style: none;
+    display:flex;
+    justify-content: center;
+}
+
+header nav ul li {
+    padding: 0 15px;
+}
