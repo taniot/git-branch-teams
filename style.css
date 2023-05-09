@@ -46,3 +46,7 @@ footer {
     background-color: burlywood;
     text-align: center;
 }
+
+footer div {
+    padding: 50px;
+}
