@@ -31,3 +31,13 @@ header nav ul {
 header nav ul li {
     padding: 0 15px;
 }
+
+main {
+    padding: 6.25rem;
+    text-align:center
+}
+
+main button {
+    margin: 1.875rem 0;
+    
+}
